@@ -3,5 +3,5 @@
 const main = document.getElementById('main');
 
 main.addEventListener('click', function(event) {
-  altert('I was clicked!');
+  alert('I was clicked!');
 })
